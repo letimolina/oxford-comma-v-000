@@ -5,5 +5,5 @@ def oxford_comma(array)
    str2 = ", and #{array[array.length-1]}."
    str1 << str2
   else
-    array
+    array * " "
 end
