@@ -7,3 +7,4 @@ def oxford_comma(array)
   else
     array * " "
 end
+end
